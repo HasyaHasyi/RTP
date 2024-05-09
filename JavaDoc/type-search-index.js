@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.uum","l":"AppTest"},{"p":"my.uum","l":"Main"},{"p":"my.uum","l":"s284172"},{"p":"my.uum","l":"UrlLookupAPI"},{"p":"my.uum","l":"URLScamChecker"}];updateSearchResults();
